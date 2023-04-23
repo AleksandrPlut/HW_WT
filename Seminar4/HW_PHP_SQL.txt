@@ -1,0 +1,6 @@
+Так и не понял в каком формате сохранять ДЗ,
+Домашка по PHP: 
+https://paiza.io/projects/7oJo-DBbVnzb6zE1DCROYg?language=php
+
+Домашка по MySQL:
+https://onecompiler.com/mysql/3z6ffca6y
